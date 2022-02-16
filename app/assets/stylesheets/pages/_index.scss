@@ -1,0 +1,9 @@
+// Import page-specific CSS files here.
+@import "home";
+
+// pages/_index.scss
+@import "home";
+@import "contact";
+
+// components/_index.scss
+@import "card";
